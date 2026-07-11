@@ -1,0 +1,14 @@
+                 👨 Student
+                      │
+                      ▼
+          Frontend (Website)
+                      │
+                      ▼
+         Backend (Spring Boot)
+          │         │         │
+          │         │         │
+          ▼         ▼         ▼
+    PostgreSQL   MongoDB   AI Service
+                             │
+                             ▼
+                         AI Mentor
