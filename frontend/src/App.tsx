@@ -1,6 +1,14 @@
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Features from "./components/Features";
+
 function App() {
   return (
-    <h1>Welcome to IntelliMentor AI 🚀</h1>
+    <>
+      <Navbar />
+      <Hero />
+      <Features />
+    </>
   );
 }
 
